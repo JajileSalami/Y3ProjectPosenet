@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+}
+
+canvas {
+    position: relative;
+    top:25vh;
+    left:27vw;
+    bottom:480px;
+    right:600px;
+}
+
+#mrKam {
+    color:white;
+    position:absolute;
+}
+#lmao {
+    color:yellow;
+    position:absolute;
+    top:40px;
+}
+#ami {
+    color:peachpuff;
+    position:absolute;
+    top:70px;
+}
+
+#title {
+    color:white;
+    font-size:2vw;
+    position:absolute;
+    left:40vw;
+    font-weight:bold;
+}
